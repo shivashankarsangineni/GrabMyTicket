@@ -1,0 +1,39 @@
+.qrScannerDiv {
+    height: calc(100vh - 62px);
+}
+
+.scannerHeader {
+    text-align: center;
+    color: black;
+}
+
+.ticketImgResponse {
+    display: block;
+    margin: 0 auto;
+}
+
+.scannerButton {
+    font-family: "Gill Sans MT", sans-serif;
+    background-color: #d9d9d9;
+    font-size: 1.2em;
+    display: block;
+    margin: 40px auto 0;
+}
+
+.ticketResponseContainer {
+    margin: 10px;
+}
+
+.ticketResponseMsg {
+    text-align: center;
+    font-size: 1.4em;
+    padding: 0;
+    margin: 0;
+}
+
+.ticketResponseText {
+    text-align: center;
+    font-size: 1em;
+    padding: 0;
+    margin: 0;
+}

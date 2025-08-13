@@ -1,0 +1,15 @@
+@media only screen and (max-width: 750px) {
+    .qrScannerDiv div {
+        /*height: calc(100vh - 62px);*/
+    }
+
+    .qrScannerDiv div video {
+        width: auto;
+    }
+
+    .ticketImgResponse {
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+    }
+}

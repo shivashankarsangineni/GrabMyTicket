@@ -1,0 +1,6 @@
+@media only screen and (max-width: 750px) {
+    .registerFields input {
+        width: 125px;
+    }
+}
+

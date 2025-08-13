@@ -1,0 +1,23 @@
+@media only screen and (max-width: 750px) {
+    .innerPageContainer {
+        height: 100vh;
+    }
+
+    .box {
+        width: 80vw;
+        padding: 20px
+    }
+
+    .landingLogo {
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+
+    .landingButtons {
+        width: 90%;
+    }
+
+    .landing-button {
+        min-width: 0px;
+    }
+}
